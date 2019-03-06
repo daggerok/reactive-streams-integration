@@ -1,5 +1,5 @@
 # Reactive streams interoperability
-Project Reactor, Akka Streams, RxJava 2, reactive streams interoperability with JDK 9+ Flow types
+Project Reactor, Akka Stream, RxJava 2, reactive streams interoperability with JDK 9+ Flow types
 
 _make sure you have jdk installed_
 
