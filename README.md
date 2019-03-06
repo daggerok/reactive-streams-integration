@@ -8,7 +8,7 @@ jenv local 11.0
 ```
 
 ```bash
-./mvnw exec:java
+./mvnw clean package exec:java
 # output:
 0
 -1
